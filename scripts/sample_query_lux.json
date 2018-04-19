@@ -1,0 +1,9 @@
+{
+            "reading_query" : {
+            	"content.result" : { "$lt": 10.0 }
+            },
+            "metadata_query" : {
+               "content.ObservedProperty.name" : "Luminance",
+               "content.unitOfMeasurement.name" : "lux"
+            }
+}
