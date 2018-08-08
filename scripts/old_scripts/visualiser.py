@@ -6,7 +6,8 @@ Created on Thu Apr 19 13:38:50 2018
 @author: nguyentran
 
 This script visualises response time of different types of IoTSE as boxplot
-and heatmap
+and heatmap. It accepts a folder of csv files, storing the workflow execution time
+of different workflow patterns, and generate boxplot from those files.
 """
 from pathlib import Path
 import pandas as pd

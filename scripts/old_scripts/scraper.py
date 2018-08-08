@@ -4,6 +4,10 @@
 Created on Wed Apr 18 17:18:23 2018
 
 @author: nguyentran
+
+This script performs web scrapping on conductor GUI at the "conductor_url", 
+generate a panda dataframe to store the data, and write the dataframe to 
+a CSV file.
 """
 
 import requests

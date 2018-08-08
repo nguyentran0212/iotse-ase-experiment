@@ -1,0 +1,6 @@
+{
+            "metadata_query" : {
+               "content.ObservedProperty.name" : "Luminance",
+               "content.unitOfMeasurement.name" : "lux"
+            }
+}

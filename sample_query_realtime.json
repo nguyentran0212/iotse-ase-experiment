@@ -1,0 +1,5 @@
+{
+            "reading_query" : {
+            	"content.result" : { "$lt": 10.0 }
+            }
+}
